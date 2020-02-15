@@ -66,7 +66,12 @@ function checkGender(){
 switch(gender){
     case gender = "male":
         switch(day){
-            
+            case (0 || -0):
+                document.getElementById("result").innerHTML = "The day is on a sunday." + "  " + "Your akan name is " + maleNames[0];
+                break;
+                case (1 || -1):
+                  document.getElementById("result").innerHTML = "The day is on a monday." + " " + "Your akan name is " + maleNames[1];
+                break;
         } 
 }
 
