@@ -1,15 +1,28 @@
 body{
     height: 1500px;
-    background-color: black;
+    background-image: url("https://i.pinimg.com/originals/33/61/70/336170387ceaf2d3e5316e6630d6fbab.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    position: relative;
     margin: 0;
     padding: 0;
-    color: #ffff;
+    color: rgb(245, 234, 234);
     font-family: 'Karla', sans-serif;
     font-size: 20px;
-    }
+    z-index: 5;
+}
+.overlay{
+    background: rgba(43, 41, 41, 0.842);
+    width: 100%;
+    height: 1500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
 .my-4{
     box-shadow: 2px 2px 2px 0px;
-    color: #fff;
+    color: rgb(17, 16, 16);
     margin: 0
     }
 .output{
