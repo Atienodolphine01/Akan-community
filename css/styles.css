@@ -5,7 +5,7 @@ body{
     padding: 0;
     color: #ffff;
     font-family: 'Karla', sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     }
 .text-center akan{
     color: #ffff;
@@ -19,5 +19,10 @@ body{
 
 }
 img{
-    display: inline;
+    padding-right: 30px ;
 }
+.mx-auto{
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.about
