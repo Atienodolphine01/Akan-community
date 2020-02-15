@@ -24,9 +24,15 @@ body{
     box-shadow: 2px 2px 2px 0px;
     color: rgb(17, 16, 16);
     margin: 0
-    }
-.output{
-
+}
+.footer-bottom{
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding-top: 20px;
 }
 img{
     padding-right: 30px ;
