@@ -7,9 +7,6 @@ body{
     font-family: 'Karla', sans-serif;
     font-size: 20px;
     }
-.text-center akan{
-    color: #ffff;
-    }
 .my-4{
     box-shadow: 2px 2px 2px 0px;
     color: #fff;
@@ -25,4 +22,10 @@ img{
     padding-left: 500px;
     padding-right: 500px;
 }
-.about
+.p-text{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.description{
+    padding-left: 10px;
+}
