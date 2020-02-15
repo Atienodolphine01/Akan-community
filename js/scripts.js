@@ -18,7 +18,7 @@ alert("Oops!please enter a valid day");
 else if(month<0||month>12 ||month ==2 && day>29)
 alert("Oops!please enter a valid month");
 else if(year<0||year>2020)
-alert("morio weka mwaka fiti");
+alert("Sorry invalid date");
 
 
 var day = new Date(year + "/" + month + "/" + day);
