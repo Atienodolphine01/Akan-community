@@ -6,21 +6,13 @@ body{
     color: #ffff;
     font-family: 'Merienda One', cursive;
     }
-    h1{
+h1{
     color: #ffff;
     }
-    .my-4{
+.my-4{
     box-shadow: 2px 2px 2px 0px;
     color: #fff;
     }
-    p {
-    text-align: center;
-    color: #ffff;
-    font-size: large;
-    }
-    .p-text{
-    margin-top: 30px;
-    }
-    .form-control{
-    color: black;
-    }
+.output{
+    
+}
