@@ -4,15 +4,20 @@ body{
     margin: 0;
     padding: 0;
     color: #ffff;
-    font-family: 'Merienda One', cursive;
+    font-family: 'Karla', sans-serif;
+    font-size: 15px;
     }
-h1{
+.text-center akan{
     color: #ffff;
     }
 .my-4{
     box-shadow: 2px 2px 2px 0px;
     color: #fff;
+    margin: 0
     }
 .output{
-    
+
+}
+img{
+    display: inline;
 }
