@@ -1,0 +1,60 @@
+body{
+    height: 1500px;
+    background-image: url("https://i.pinimg.com/originals/33/61/70/336170387ceaf2d3e5316e6630d6fbab.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: rgb(245, 234, 234);
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+    z-index: 5;
+}
+.overlay{
+    background: rgba(43, 41, 41, 0.842);
+    width: 100%;
+    height: 1500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+.my-4{
+    box-shadow: 2px 2px 2px 0px;
+    color: rgb(73, 69, 69);
+    margin: 0
+}
+.footer-bottom{
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding-top: 20px;
+}
+img{
+    padding-right: 30px ;
+}
+.mx-auto{
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.p-text{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.description{
+    padding-left: 10px;
+}
+.btn{
+    height: 45px;
+    width: 200px;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+  }
+.btn:hover{
+    background-color: black;
+}
