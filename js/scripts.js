@@ -65,7 +65,9 @@ function checkGender(){
 
 switch(gender){
     case gender = "male":
-        
+        switch(day){
+            
+        } 
 }
 
 
