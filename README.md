@@ -2,7 +2,7 @@
 https://atienodolphine01.github.io/Akan-community/
 
 ## Description.
-A web application that takes a ``user's birthday``, calculates the ``day of the week`` they were born and then depending on their gender outputs their ``Akan Name``.
+An application that takes a ``user's birthday``, calculates the ``day of the week`` they were born and then depending on their gender outputs their ``Akan Name``.
 
 ## Author.
  > Dolphine Atieno
