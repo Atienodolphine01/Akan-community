@@ -37,7 +37,7 @@ An application that takes a ``user's birthday``, calculates the ``day of the wee
 |     |      |
 
 ## Known Bugs
-* Applying java script was a challenge.
+* If you input a letter ie 'y1' in Year it still gives the result.
 
 ## License
   MIT License &copy|AtyenoD 
