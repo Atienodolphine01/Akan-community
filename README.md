@@ -37,7 +37,7 @@ An application that takes a ``user's birthday``, calculates the ``day of the wee
 |     |      |
 
 ## Known Bugs
-* If you input a letter ie 'y1' in Year it still gives the result.
+* No bug detected but if you find one feel free to raise the issue.
 
 ## License
   MIT License &copy|AtyenoD 
