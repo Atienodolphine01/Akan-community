@@ -33,11 +33,3 @@ else if(female.checked==true){
 }
 
 }
-
-
-
-
-
-
-
-
